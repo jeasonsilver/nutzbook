@@ -8,7 +8,7 @@
     <artifactId>nutzbook</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <!-- UTF8大法好 --> 
+        <!-- UTF8大法好 -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <dependencies>
